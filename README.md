@@ -109,4 +109,4 @@ The supplied dataset does not contain order dates, order IDs, or customer IDs. T
 
 ## Power BI Dashboard
 
-![Retail Sales Analysis Power BI Dashboard](retail_sales_dashboard.png)
+![Retail Sales Analysis Power BI Dashboard](dashboard.png)
