@@ -94,8 +94,8 @@ retail-sales-analysis/
 - [x] SQL analysis queries
 - [x] Business insights report
 - [x] CSV exports of SQL results
-- [ ] Interactive Power BI dashboard
-- [ ] GitHub documentation and publication
+- [x] Interactive Power BI dashboard
+
 
 ## Limitations
 
@@ -103,6 +103,10 @@ The supplied dataset does not contain order dates, order IDs, or customer IDs. T
 
 ## Future Improvements
 
-- Build an interactive Power BI dashboard
+
 - Expand the analysis with additional business questions
-- Publish the project on GitHub with screenshots and documentation
+
+
+## Power BI Dashboard
+
+![Retail Sales Analysis Power BI Dashboard](retail_sales_dashboard.png)
