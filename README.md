@@ -88,6 +88,8 @@ retail-sales-analysis/
 
 ## Current Project Status
 
+## Current Project Status
+
 - [x] Data inspection and cleaning
 - [x] Python analysis and charts
 - [x] SQLite database creation
